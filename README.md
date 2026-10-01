@@ -18,7 +18,7 @@ Doble clic en **Descargador YT.bat** y:
    - **Máxima calidad**: 4K si existe.
    - **1080p sin audio**: para fondos.
    - **Solo audio MP3**.
-3. Elige dónde guardar. En la lista salen `descargas` y las carpetas de `Reddit Video\fondos`, para que el clip vaya directo al generador.
+3. Elige dónde guardar. En la lista salen `descargas` y las carpetas de `Reddit Video\fondos`, para que el clip vaya directo al generador. Al elegir una carpeta de fondos, el formato cambia solo a «sin audio».
 4. Opcional: recorta con **desde / hasta** (mm:ss) para bajar solo un trozo.
 
 ## Si deja de funcionar
